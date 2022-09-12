@@ -38,3 +38,5 @@ AI is transforming many industries. The Deep Learning Specialization provides a 
 - machine translation models: https://drive.google.com/open?id=1aUJZprtFjoVy-EP-7dv8ynbCVkd-bGqI
 - trigger word model: https://drive.google.com/open?id=1dDR-1KwP6AC3URVnsF4YGu7PRrHjjpCy
 - camera mask/RGB data: https://drive.google.com/file/d/1Ob9rdKB2MzQ2NzJOVvMRq5SYU-WVTP4V
+- keras-facenet-h5: https://drive.google.com/file/d/1py3T0d9nzgxlf2QNUx94PFcxAp_pJNE5
+- vgg19_weights_tf_dim_ordering_tf_kernels_notop.h5: https://drive.google.com/file/d/1ysAOCZ_1nbg6ahfVwMerPsw_rjfJIdpN
