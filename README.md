@@ -32,7 +32,7 @@ AI is transforming many industries. The Deep Learning Specialization provides a 
 - weights-face-recognition: https://drive.google.com/open?id=1lRP-rf5r87Lsxn2X0Ewg1VAx80n_WbDZ
 - nn4.small2.v7.h5: https://drive.google.com/open?id=1-EfefbDY3M_37oakC8BsQj6cCxxyMTg0
 - imagenet-vgg-verydeep-16.mat: https://drive.google.com/open?id=1gwDy1gBs74cQoFHk6Y1cEYpa2LVT2PFJ
-- imagenet-vgg-verydeep-19.mat: https://drive.google.com/open?id=1_fT0iMUUSURv2KI5HGZyU-gol1xAE15a
+- imagenet-vgg-verydeep-19.mat: https://drive.google.com/file/d/1xkgCAbv6bb3udLC641Bs8pS_XeFpn7VW
 - model_shakespeare_kiank.h5: https://drive.google.com/open?id=1sSXdctYmusJiP60-EmuKQINyG_FYMAeA
 - glove.6B.50d.txt: https://drive.google.com/open?id=1Jq_KcIakiE8bn5ggw1954KoLbwBM7tZ5
 - machine translation models: https://drive.google.com/open?id=1aUJZprtFjoVy-EP-7dv8ynbCVkd-bGqI
